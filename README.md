@@ -1,4 +1,4 @@
-# Automação Relatórios Aprovados Vexpenses 🤖✈️
+# Automação Relatórios Aprovados Vexpenses 🤖✈️✅
 
 Automação destinada para a captura de relatórios aprovados no Vexpenses das mantenedoras **ABEC**, **SOME**, **UBEE** e **UNBEC**, desenvolvida com Node.js. A coleta é feita diretamente na própria ferramenta, garantindo a extração automatizada das informações necessárias.
 
